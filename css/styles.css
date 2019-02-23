@@ -92,7 +92,7 @@ right: 30%;
 
   padding: 7% 15%;
   position: absolute;
-  z-index: -1;
+  z-index: 1;
 }
 
 .feature-box{
